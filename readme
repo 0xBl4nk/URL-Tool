@@ -1,3 +1,8 @@
+PARAMS:
+-D #DECODE
+-E #ENCODE
+-o #OUTPUT-FILE
+
 USAGE:
 ./urltool.rb -E text-to-encode.txt  #URL ENCODE
 ./urltool.rb -E text-to-encode.txt -o encoded_output.txt #URL ENCODE WITH OUTPUT_FILE
