@@ -1,0 +1,6 @@
+USAGE:
+./urltool.rb -E text-to-encode.txt  #URL ENCODE
+./urltool.rb -E text-to-encode.txt -o encoded_output.txt #URL ENCODE WITH OUTPUT_FILE
+
+./urltool.rb -D texto-to-decode.txt # URL DECODE
+./urltool.rb -D texto-to-decode.txt -o decoded_output.txt #URL DECODE WITH OUTPUT_FILE
